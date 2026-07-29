@@ -1,0 +1,8 @@
+{
+  "appId": "com.alipardahouse.app",
+  "appName": "Ali Parda House",
+  "webDir": "www",
+  "server": {
+    "entryHTML": "new_project.html"
+  }
+}
